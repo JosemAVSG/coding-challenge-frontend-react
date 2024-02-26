@@ -1,6 +1,6 @@
 import "./App.css";
 import React from "react";
-import Bootstrap from "./components/nav";
+import Bootstrap from "./components/Nav";
 import Search from "./components/Search";
 import "bootstrap/dist/css/bootstrap.min.css";
 
