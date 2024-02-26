@@ -3,7 +3,7 @@ import logo from "../assets/42802.jpg"
 
 function Navbar() {
   return (
-    <nav className="navbar navbar-expand-lg navbar-light ">
+    <nav className="navbar navbar-expand-lg navbar-light">
       <div className="container-fluid">
       <div className="row">
         <a className="navbar-brand d-inline-flex align-top" alt="Brand">
