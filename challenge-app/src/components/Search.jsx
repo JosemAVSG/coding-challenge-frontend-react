@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from "react";
 // import { helpHttp } from "../helpers/helpHttp";
 import Formulario from "./Formulario";
-import Loader from "./loader";
+import Loader from "./Loader";
 import SearchDetails from "./SearchDetails";
 
 export default function Search() {
